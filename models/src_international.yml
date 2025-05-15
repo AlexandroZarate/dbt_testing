@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw_data                # alias a tu elección
+    database: "grounded-burner-459901-g3"
+    schema:   "dbt_test_zero_to_hero"
+
+    tables:
+      - name: international_education_costs
+
+
