@@ -6,6 +6,17 @@ sources:
     schema:   "dbt_test_zero_to_hero"
 
     tables:
-      - name: international_education_costs
+      - name: coaches
+      - name: leagues
+      - name: scores
+      - name: matches
+      - name: players
+      - name: seasons
+      - name: stadiums
+      - name: standings
+      - name: teams
+
+
+      
 
 
