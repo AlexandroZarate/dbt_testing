@@ -16,7 +16,7 @@ models:
                 - unique
                 - not_null
 
-    - name: my_second_dbt_model
+    - name: modelo2
       description: "A starter dbt model"
       columns:
           - name: id
